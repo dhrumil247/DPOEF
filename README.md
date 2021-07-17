@@ -1,7 +1,3 @@
-The name of this repo stands for 
-[D]yte [P]lacement [O]nline [E]ditor [F]rontend
-This was done in an attempt to avoid plagiarism
-
 All of the deliverables are achieved
 
 Bonus deliverable of deploying on Github is achieved
