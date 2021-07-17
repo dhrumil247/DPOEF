@@ -2,11 +2,11 @@ The name of this repo stands for
 [D]yte [P]lacement [O]nline [E]ditor [F]rontend
 This was done in an attempt to avoid plagiarism
 
-All of the deliverables are acheived
+All of the deliverables are achieved
 
-Bonus deliverable of deploying on Github is acheived
+Bonus deliverable of deploying on Github is achieved
 
-Bonus deliverable of saving the code is acheived
+Bonus deliverable of saving the code is achieved
 
 ## Author :
 
@@ -16,7 +16,7 @@ Dhrumil Prakash Makhija
 
 https://dhrumil247.github.io/DPOEF/
 
-## Then click one of the HTML, CSS or JS Buttons to load the respective editor
+## Then click one of the HTML, CSS or JS Buttons to load the editor, clicking them again will dynamically load their contents.
 
 ## To run it locally on your machine : 
 
