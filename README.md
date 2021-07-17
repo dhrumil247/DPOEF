@@ -16,6 +16,8 @@ Dhrumil Prakash Makhija
 
 https://dhrumil247.github.io/DPOEF/
 
+## Then click one of the HTML, CSS or JS Buttons to load the respective editor
+
 ## To run it locally on your machine : 
 
 This was made with create-react-app.
