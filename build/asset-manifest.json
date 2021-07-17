@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DPOEF/static/css/main.61a33d22.chunk.css",
+    "main.js": "/DPOEF/static/js/main.1c8d4a42.chunk.js",
+    "main.js.map": "/DPOEF/static/js/main.1c8d4a42.chunk.js.map",
+    "runtime-main.js": "/DPOEF/static/js/runtime-main.23076457.js",
+    "runtime-main.js.map": "/DPOEF/static/js/runtime-main.23076457.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/DPOEF/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.c9f404d7.chunk.js": "/DPOEF/static/js/2.c9f404d7.chunk.js",
+    "static/js/2.c9f404d7.chunk.js.map": "/DPOEF/static/js/2.c9f404d7.chunk.js.map",
+    "index.html": "/DPOEF/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/DPOEF/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.61a33d22.chunk.css.map": "/DPOEF/static/css/main.61a33d22.chunk.css.map",
+    "static/js/2.c9f404d7.chunk.js.LICENSE.txt": "/DPOEF/static/js/2.c9f404d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23076457.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.c9f404d7.chunk.js",
+    "static/css/main.61a33d22.chunk.css",
+    "static/js/main.1c8d4a42.chunk.js"
+  ]
+}
